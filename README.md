@@ -17,9 +17,10 @@ Ce jeu a été développé en une semaine avec 2 autres étudiants, il s'agit d'
 
 ## Captures d’écran
 
-![Menu principal](Images/mainmenu.png)
-![Image du jeu](Images/lovefactory.png)
-![Menu de l'usine](Images/factorymenu.png)
+![Vue du jeu](Images/game.png)
+![Compétence de slash](Images/slash.png)
+![Entrée en mode SUPER](Images/supermode.png)
+![Utilisation de la compétence ultime](Images/ulti.png)
 
 ## Auteurs
 
